@@ -166,8 +166,6 @@ main a:hover {
     }
 }
 
-.woman_header {
-}
 
 
 
@@ -269,6 +267,21 @@ main a:hover {
         .woman_header {
             background-image: url('/images/10.jpg');
             background-size: cover;
+        }
+
+        .woman_header_page {
+            background-image: url('/images/womens.jpg');
+            background-position-y: center;
+        }
+
+        .articles_header_page {
+            background-image: url('/images/20.jpg');
+            background-position-y: center;
+        }
+
+        .clinic_header_page {
+            background-image: url('/images/20.jpg');
+            background-position-y: center;
         }
 
         .articletitle {
