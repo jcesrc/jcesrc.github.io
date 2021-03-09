@@ -276,12 +276,12 @@ main a:hover {
 
         .articles_header_page {
             background-image: url('/images/20.jpg');
-            background-position-y: center;
+            background-position-y: bottom;
         }
 
         .clinic_header_page {
             background-image: url('/images/20.jpg');
-            background-position-y: center;
+            background-position-y: bottom;
         }
 
         .articletitle {
