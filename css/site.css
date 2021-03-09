@@ -288,6 +288,10 @@ main a:hover {
             color: white;
             margin: 30px 0;
         }
+
+        .text-shadow {
+            text-shadow: 3px 3px #516263f2;
+        }
     }
 
 
